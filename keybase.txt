@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jedieaston
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://planeteaston.com
+  * I am jedieaston (https://keybase.io/jedieaston) on keybase.
+  * I have a public key with fingerprint C614 6CD7 7CAA AC8F 866B  DD8A 1E9C 1D41 64DE B8D0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120039489254e70308ff53ca46d30e1108a348166e98d91b5f0e3e82c75c1e965480a",
+      "fingerprint": "c6146cd77caaac8f866bdd8a1e9c1d4164deb8d0",
+      "host": "keybase.io",
+      "key_id": "1e9c1d4164deb8d0",
+      "kid": "01015c9b889d4900d8c1a946841d68fde70e0051788b1fedea5721bd309f1edb003d0a",
+      "uid": "f5de0e0364e9f2d8c3b248d33f5ca519",
+      "username": "jedieaston"
+    },
+    "service": {
+      "hostname": "planeteaston.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1555108615,
+  "expire_in": 157680000,
+  "prev": "9b4bbb0136c08f4e365f794cdcf7c292ecac3c81faebf50f28cfe9fd79b7552c",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMNyAnicbZJ/UFRFAMcPOMAIBoqiLKS6kIlCenvvNzQTPx0Mdfhh2KTT9d7uvuMJ
+3B33qxMQEgbSMaTmchRDAkfGEcwgQsIYBQSBGI2RqQkaMYic0EInEiUx2iP9r/3n
+ze77fj/7/e5uf5CPJsArom5NIpr8etRrpLfeodneFupfrJPNaKcurliXh1c+OB9h
+m92QpyJdnI4CeoqiRUYQ9SyDeYqmBEVhaSgxHKIpDAAlSDQjAI7DooBEILMKhWks
+6CHPQoBFjmUEStLF6BTVZMRWi1U12QkWcoDhIOJ5KEkSFBSB42SEBIk4IEAM4BiE
+ZQFRxJhrtnkcJJws2XCsaiZrZGJYifc/+oe5KcBCURYEETEiRSEBAklkOIEBiBMU
+RKpgimIBLwgyUDDCEsvrgUw6iQrASCal0UpuxwpOYREmBppjsKjoCYyW9YyAaFph
+ocQC0SO0YatJKsBEvQMjFUs2u9mk2xWjI+tOFWLP0Xq6PNBY8iUTtv+nioXmAkKw
+WM12MzTnk7+5drvFFudx23daPPL3sGx4ADLIqgmR0yQOJ7baVLJLHCBKaFc9ZMCy
+LLkVDrAxOuyyqFZsUD0KlucEigzPPthJkKLMyLJMAZqD5FIZTHOswosMRFDhoV7U
+YyhBGgpAkbCssJSiF6BC2iNelHmW1UOdp1qhyUzYIskpGQnTphpNkt1hxbpdfb3b
+tRqvAI2fr7fnmWkCHgl5+PjOxwYvm683uRe3nbb1375T82RD1RzgQydc656iqyoe
+jTaVZX7ynW9I5htgYvP97sPOL4KX9vSFXwhpXXUJLp64VfTxJVBo/GhzRrM7O+sb
+3NHL/51TlMinJ9UmBPm/mOmX+kpl7blMYf6nrBMfuof6911ur/7rXJNyKH3LBydz
+Dy7Un/11x9EXqtvfH77+av63yd6Bger5nqHZK6Wa1XFcautAQjkD7yW82zLg2p/+
+R2pYyNA/LVbHYOTpuhuFwz1BFdJvA2t/0WY7pZKbteVKoE+O29zZ5TfUtmlbwDKP
+vUfnXL3+geKZ0Ze/H261D+DyZzY0dshZY00btEknr96J/7yqZF2a2zjgzf481vBl
+TU5lXUDdeHWfNip+urYkImr2prbg8vzWryJda8dbEkevoLneM8+ODLq9qsIOjBwb
+7tJ39GxMeswd3nzspe6824XZ7Yfta978If3TVet392wy+8+I7UPxwV1BU2H69Wzn
+1nfmU6d9ap8X/nRE16Pqg0sRb11d7cvsTePTxks3TnWdXZjOHS0eb4SmQ3e1S6FR
+05GDF/0qC15PscVY9p4yPj51fLYRJ8oX2jIsnx2N2JJSNGbanZu+mNzdmdXsSj5+
+YP8Nw/1JL94xebH71O/BzuGGH8vCZ+sq+iYib42U9R9ZupbxXMm1madT7g6OFSyX
+vvZ24BN7oo/M5C/wNc57/wKVJMha
+=7K/2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jedieaston
+
+==================================================================
