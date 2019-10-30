@@ -1,11 +1,9 @@
 ## Hi there!
 
-I don't really have anything here yet. Maybe I will at some point. Who knows?
+This page is just to let you know that my name is Easton Pillay, I pretend to know how to code, and that if I ever do an interesting project, it'll probably be here.
 
 
+Here's my [keybase](https://keybase.io/jedieaston), my [LinkedIn](https://www.linkedin.com/in/easton-pillay-53ba4118a), and my [GitHub](https://github.com/jedieaston).
 
 
-But, while you're here...
-
-
-Here's my [keybase](https://keybase.io/jedieaston) and my [LinkedIn](https://www.linkedin.com/in/easton-pillay-53ba4118a).
+![the official browser of Corporate America(tm)](ie_logo.gif)
