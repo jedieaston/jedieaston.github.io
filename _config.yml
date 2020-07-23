@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
 title: It works!
+github:
+  is_project_page: false
