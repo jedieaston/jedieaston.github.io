@@ -1,6 +1,6 @@
 ## Hi there!
 
-This page is just to let you know that my name is Easton Pillay, and maybe give you some cool links to stuff.
+My site works. Isn't it grand?
 
 Here's my [LinkedIn](https://www.linkedin.com/in/easton-pillay-53ba4118a), and my [GitHub](https://github.com/jedieaston).
 
