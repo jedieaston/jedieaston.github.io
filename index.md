@@ -12,10 +12,4 @@ Currently a volunteer moderator for the Windows Package Manager Community Repo (
 <link rel="stylesheet" type="text/css" href="clippy.css" media="all">
 <script src="https://unpkg.com/jquery@3.2.1"></script> <!-- yes, i know... -->
 <script src="https://unpkg.com/clippyjs@latest"></script>
-<script>
-    window.CLIPPY_CDN = "./agents/"
-    clippy.load("Clippy", agent => {
-        agent.speak("When all else fails, bind some paper together. My name is Clippy.")
-        agent.animate()
-    })
-</script>
+<script src="orders.js"></script>
