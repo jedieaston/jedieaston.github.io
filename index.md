@@ -8,7 +8,7 @@ Currently a volunteer moderator for the Windows Package Manager Community Repo (
 
 ![the official browser of Corporate America(tm)](ie_logo.gif)
 
-<div>
+
 <link rel="stylesheet" type="text/css" href="clippy.css" media="all">
 <script src="https://unpkg.com/jquery@3.2.1"></script> <!-- yes, i know... -->
 <script src="https://unpkg.com/clippyjs@latest"></script>
@@ -18,5 +18,4 @@ Currently a volunteer moderator for the Windows Package Manager Community Repo (
         agent.speak("When all else fails, bind some paper together. My name is Clippy.")
         agent.animate()
     })
-    </script>
-</div>
+</script>
